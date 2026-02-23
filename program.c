@@ -2,8 +2,9 @@
 
 int main()
 {
-printf("Zdravo sveta\n");
+  int a,b;
 printf("Zdravo sveta\n");
 printf("Zdravo sveta\n");
 
+return 0;
 }
