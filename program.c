@@ -2,9 +2,9 @@
 
 int main()
 {
-  int a,b;
-printf("Zdravo sveta\n");
-printf("Zdravo sveta\n");
+  int a,b,c;
 
+printf("Zdravo sveta\n");
+scanf_s(".................");
 return 0;
 }
