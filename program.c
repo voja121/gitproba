@@ -4,8 +4,7 @@ int main()
 {
   int a,b,c,p;
 
-printf("Zdravo sveta\n");
+printf("Zdravo Vuce\n");
 scanf_s(".................");
   p=a*b;
-return 0;
 }
